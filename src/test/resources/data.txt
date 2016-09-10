@@ -1,0 +1,10 @@
+接口测试号登陆
+http://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
+
+获取access_token
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=yourappid&secret=yoursecret
+
+
+http://10.10.221.140:8091/sender/sendWeixin?content=走起
+
+https://api.weixin.qq.com/cgi-bin/getcallbackip?access_token=Gs8n6R28xR8lHsCMpghhoM6Px78amrA_R-tup6nwZSx9qnXF09di28AwTDsDfaA_HOfMEAdJt8zykk_jmvce1RTyU3EKYFe90MFpC8jQ0djlvCvixYGQqJdXdNshyb84ZTVhABAJDF
